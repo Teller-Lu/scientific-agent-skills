@@ -1,0 +1,19 @@
+{
+  "name": "scientific-agent-skills",
+  "description": "Development marketplace for scientific-agent-skills core skills library",
+  "owner": {
+  "name": "Teller",
+  "email":"tellerlu@163.com"
+  },
+  "plugins": [
+    {
+      "name": "scientific-agent-skills",
+      "source": "./",
+      "description": "K-Dense scientific agent skills for Claude",
+      "version": "2.45.0",
+	  "author": {
+        "name": "K-Dense-AI"
+      }
+    }
+  ]
+}

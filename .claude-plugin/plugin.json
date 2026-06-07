@@ -1,0 +1,16 @@
+{
+  "name": "scientific-agent-skills",
+  "description": "将任何AI代理变成AI科学家。140个随时可用的技能加上100多个科学数据库，涵盖生物学，化学，医学和药物发现。",
+  "version": "2.45.0",
+  "author": { 
+  "name": "K-Dense-AI"
+  },
+  "homepage": "https://github.com/Teller-Lu/scientific-agent-skills",
+  "repository": "https://github.com/Teller-Lu/scientific-agent-skills",
+  "license": "Teller",
+  "keywords": [
+    "skills",
+    "scientific",
+    "workflows"
+  ]
+}
